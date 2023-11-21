@@ -50,8 +50,8 @@
 </div>
 
 <div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanani&layout=compact">
+<br>
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=chanani&show_icons=true">
 
