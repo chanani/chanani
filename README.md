@@ -40,9 +40,6 @@
 	<a href="https://chanani.github.io/portfolio/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white"/>
 	</a>
-	<a href="https://www.instagram.com/c.ha_n/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-	</a>
 	<a href="https://www.notion.so/2ddf69a30d634079ab3b04db468d8489">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
