@@ -1,6 +1,18 @@
+<div align=center>
+  
+### Hi there!👋👋
+####  I'm Chanhan, a Backend Engineer
+
+</div><br>
+<div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=chanani&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanani&layout=compact&theme=material-palenight)
+
+</div>
+<br>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -52,10 +64,7 @@
 <div align=center>
 <br>
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=chanani&show_icons=true">
 
-<br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 <br/>
