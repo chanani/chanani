@@ -53,7 +53,7 @@
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white"/>
 	</a>
 	<a href="https://chanhan.tistory.com">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Tistory&logoColor=white" />
+		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 	</a> 
 	<a href="https://www.linkedin.com/in/%EC%B0%AC%ED%95%9C-%EC%9D%B4-1648a6294/">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
