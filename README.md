@@ -44,21 +44,21 @@
 </div>
 <br> -->
 
-<div align=center>
-<!-- 	<p>👾 SNS & Portfolio 👾</p> -->
+<!-- <div align=center>
+	<p>👾 SNS & Portfolio 👾</p> 
 	<p>👾 Blog 👾</p>
 </div>
 
 <div align=center>
-<!-- 	<a href="https://chanani.github.io/portfolio/" style="text-decoration: none !important;">
+	<a href="https://chanani.github.io/portfolio/" style="text-decoration: none !important;">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white"/>
-	</a> -->
+	</a>
 	<a href="https://chanhan.tistory.com" style="text-decoration: none !important">
 		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 	</a> 
-<!-- 	<a href="https://www.linkedin.com/in/%EC%B0%AC%ED%95%9C-%EC%9D%B4-1648a6294/" style="text-decoration: none">
+<a href="https://www.linkedin.com/in/%EC%B0%AC%ED%95%9C-%EC%9D%B4-1648a6294/" style="text-decoration: none">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
-	</a> -->
+	</a> 
 	<br>
 </div>
 
@@ -69,4 +69,4 @@
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 <br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanani%2Fhit-counter&count_bg=%23CE3922&title_bg=%23222523&icon=github.svg&icon_color=%23C88A8A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanani%2Fhit-counter&count_bg=%23CE3922&title_bg=%23222523&icon=github.svg&icon_color=%23C88A8A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
