@@ -4,7 +4,7 @@
 
 ## 🏆 Open Source Contribution
 
-- gradle/gradle [#36708](https://github.com/gradle/gradle/pull/36708) - POSIX 시스템에서 results-generic.bin 파일 권한 버그 수정
+- gradle/gradle [#36708](https://github.com/gradle/gradle/pull/36708) - 테스트 결과 파일의 접근 권한 버그 수정
 - spring-projects/spring-ai [#5339](https://github.com/spring-projects/spring-ai/pull/5339) - MongoDB 메시지 정렬 순서 버그 수정
 - spring-projects/spring-data-redis [#3302](https://github.com/spring-projects/spring-data-redis/pull/3302) - Duration 파싱 시 나노초 단위 검증 버그 수정
 - spring-projects/spring-security [#18530](https://github.com/spring-projects/spring-security/pull/18530) - `access` 속성 값 검증 로직 추가 *(Review Pending)*
