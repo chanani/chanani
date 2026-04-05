@@ -12,6 +12,7 @@
 - resilience4j/resilience4j [#2400](https://github.com/resilience4j/resilience4j/pull/2400) - JavaDoc `@see` 태그 참조 경로 수정
 - apache/logging-log4j2 [#4049](https://github.com/apache/logging-log4j2/pull/4049) - 파일 권한 설정 버그 수정 (*Pendding*)
 - spring-projects/spring-security [#19032](https://github.com/spring-projects/spring-security/pull/19032) - JWT 잘못된 issuer 예외 처리 버그 수정 (*Pendding*)
+- spring-projects/spring-ai [#5683](https://github.com/spring-projects/spring-ai/pull/5684) - `CosmosDB` NIN 필터 연산자 버그 수정(`!IN` → `NOT IN`)(*Pendding*)
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
