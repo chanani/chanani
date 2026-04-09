@@ -4,14 +4,14 @@
 
 ## 🏆 Open Source Contribution
 
-- gradle/gradle [#36708](https://github.com/gradle/gradle/pull/36708) - 테스트 결과 파일 접근 권한 버그 수정
-- spring-projects/spring-ai [#5339](https://github.com/spring-projects/spring-ai/pull/5339) - MongoDB 메시지 정렬 순서 버그 수정
-- spring-projects/spring-ai [#5501](https://github.com/spring-projects/spring-ai/pull/5501) - `PgVectorStore` 사용 시 데이터베이스 생성 오류 수정
-- spring-projects/spring-data-redis [#3302](https://github.com/spring-projects/spring-data-redis/pull/3302) - Duration 파싱 시 나노초 단위 검증 버그 수정
-- spring-projects/spring-security [#18530](https://github.com/spring-projects/spring-security/pull/18530) - `access` 속성 값 검증 로직 추가
-- resilience4j/resilience4j [#2400](https://github.com/resilience4j/resilience4j/pull/2400) - JavaDoc `@see` 태그 참조 경로 수정
-- spring-projects/spring-security [#19032](https://github.com/spring-projects/spring-security/pull/19032) - JWT 잘못된 issuer 예외 처리 버그 수정 (*Pendding*)
-- spring-projects/spring-ai [#5683](https://github.com/spring-projects/spring-ai/pull/5684) - `CosmosDB` NIN 필터 연산자 버그 수정(`!IN` → `NOT IN`)(*Pendding*)
+- gradle/gradle [#36708](https://github.com/gradle/gradle/pull/36708) **`⭐ Mile stone`** 테스트 결과 파일 접근 권한 버그 수정
+- spring-projects/spring-ai [#5339](https://github.com/spring-projects/spring-ai/pull/5339) **`⭐ Mile stone`** MongoDB 메시지 정렬 순서 버그 수정
+- spring-projects/spring-ai [#5501](https://github.com/spring-projects/spring-ai/pull/5501) **`⭐ Mile stone`** `PgVectorStore` 사용 시 데이터베이스 생성 오류 수정
+- spring-projects/spring-data-redis [#3302](https://github.com/spring-projects/spring-data-redis/pull/3302) **`⭐ Mile stone`** Duration 파싱 시 나노초 단위 검증 버그 수정
+- spring-projects/spring-security [#18530](https://github.com/spring-projects/spring-security/pull/18530) **`⭐ Mile stone`** `access` 속성 값 검증 로직 추가
+- resilience4j/resilience4j [#2400](https://github.com/resilience4j/resilience4j/pull/2400) ✅ JavaDoc `@see` 태그 참조 경로 수정
+- spring-projects/spring-security [#19032](https://github.com/spring-projects/spring-security/pull/19032) 🔄 JWT 잘못된 issuer 예외 처리 버그 수정 
+- spring-projects/spring-ai [#5683](https://github.com/spring-projects/spring-ai/pull/5683) 🔄`CosmosDB` NIN 필터 연산자 버그 수정(`!IN` → `NOT IN`)
 
 <!-- apache/logging-log4j2 [#4049](https://github.com/apache/logging-log4j2/pull/4049) - 파일 권한 설정 버그 수정 (*Pendding*) -->
 
